@@ -23,10 +23,3 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </div>
-
-### SO em uso
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    </div>
