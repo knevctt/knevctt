@@ -11,8 +11,7 @@
 ### Tecnologias que estou estudando
 
 <div style="display: inline_block"><br/>
-<img width="8%" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-<img width="10%" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
+
 </div>
 
 ### Linguagens aprendidas até o momento
@@ -25,4 +24,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img width="5%" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
     <img width="5%" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-    </div>
+    <img width="8%" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+    <img width="10%" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
+</div>
